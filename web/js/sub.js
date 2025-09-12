@@ -1,7 +1,7 @@
 const CONFIG = {
   'proxyListUrl': "https://raw.githubusercontent.com/AFRcloud/ProxyList/refs/heads/main/ProxyList.txt",
   'apiCheckUrl': "https://api.jb8fd7grgd.workers.dev/",
-  'mainDomains': ["siren.anun3.biz.id"],
+  'mainDomains': ["siren.uk81.biz.id"],
   'defaultUuid': 'bbff1096-1b2b-4953-89fc-380db3854af8',
   'maxProxies': 0x32,
   'defaultProxyCount': 0x5,
