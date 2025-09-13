@@ -5,7 +5,7 @@ const CONFIG = {
   'defaultUuid': 'bbff1096-1b2b-4953-89fc-380db3854af8',
   'maxProxies': 0x32,
   'defaultProxyCount': 0x5,
-  'pathTemplate': "/afrcloud/{ip}-{port}"
+  'pathTemplate': "/uk81/{ip}-{port}"
 };
 let proxyList = [];
 let filteredProxyList = [];
