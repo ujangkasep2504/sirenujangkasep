@@ -23,6 +23,7 @@ const pathTemplate = "/uk81/{ip}-{port}"
 const bugOptions = [
   { value: "", label: "Default" },
   { value: "support.zoom.us", label: "ZOOM" },
+  { value: "investor.fb.com", label: "fb" },
   { value: "zoomgov.com", label: "ZOOMGOV" },
   { value: "ava.game.naver.com", label: "WLG" },
   { value: "graph.instagram.com", label: "IG" }
