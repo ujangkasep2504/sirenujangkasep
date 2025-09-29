@@ -1,5 +1,5 @@
 const CONFIG = {
-  'proxyListUrl': "https://raw.githubusercontent.com/AFRcloud/ProxyList/refs/heads/main/ProxyList.txt",
+  'proxyListUrl': "https://raw.githubusercontent.com/ujangkasep2504/PList/refs/heads/main/proxyList.txt",
   'apiCheckUrl': "https://api.jb8fd7grgd.workers.dev/",
   'mainDomains': ["siren.uk81.biz.id"],
   'defaultUuid': 'bbff1096-1b2b-4953-89fc-380db3854af8',
